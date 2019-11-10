@@ -24,5 +24,5 @@ They are at www.sbt-ethereum.io. For the ENS-stuff specifically, try [here](http
 
 ### Gimme Money
 
-If you need a bit of ETH to play with, add a comment to [this issue](https://github.com/swaldman/ens-talk/issues/1) with your _Ethereum_ address.
+If you need a bit of ETH to play with, add a comment to [this issue](https://github.com/swaldman/ens-talk/issues/1) with an _Ethereum_ address I can send some to.
 
