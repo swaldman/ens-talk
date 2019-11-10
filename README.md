@@ -20,4 +20,5 @@ You should be ready to go!
 
 ### Gimme Money
 
-If you need a bit of ETH to play with
+If you need a bit of ETH to play with, add a comment to [this issue](https://github.com/swaldman/ens-talk/issues/1).
+
