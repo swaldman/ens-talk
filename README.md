@@ -18,7 +18,7 @@ $ ./sbtw
 
 You should be ready to go!
 
-### Check out the docs
+### Check out the sbt-ethereum docs
 
 They are at www.sbt-ethereum.io. For the ENS-stuff specifically, try [here](https://www.sbt-ethereum.io/tasks/ens.html).
 
