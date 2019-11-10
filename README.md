@@ -18,6 +18,10 @@ $ ./sbtw
 
 You should be ready to go!
 
+### Check out the docs
+
+They are at www.sbt-ethereum.io. For the ENS-stuff specifically, try [here](https://www.sbt-ethereum.io/tasks/ens.html).
+
 ### Gimme Money
 
 If you need a bit of ETH to play with, add a comment to [this issue](https://github.com/swaldman/ens-talk/issues/1) with your _Ethereum_ address.
